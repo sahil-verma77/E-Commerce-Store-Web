@@ -59,7 +59,6 @@ async function loadProductPage() {
                     class="bg-white border border-slate-200 rounded-lg p-8 flex items-center justify-center min-h-[350px] md:min-h-[440px]">
                     <img src=${images[0]}
                     alt=${title}>
-                    class="max-h-96 max-w-full object-contain"
                 </div>
 
                 <div class="flex flex-col">
@@ -286,7 +285,7 @@ function renderProducts(products) {
             let card = `
                 <div class="h-48 w-full flex items-center justify-center p-3 mb-4 bg-white">
                     <img src=${p.thumbnail}
-                    alt=${p.title} class="max-h-full max-w-full object-contain" loading="lazy">
+                    alt=${p.title} 999full max-w-full object-contain" loading="lazy">
                 </div>
                 <div class="flex-grow flex flex-col">
                     <span class="text-xs font-semibold text-teal-700 uppercase tracking-wider mb-1">
@@ -378,7 +377,7 @@ function loadWishlistPage() {
                 <div
                     class="w-16 h-16 sm:w-20 sm:h-20 bg-white border border-slate-200 rounded p-1.5 flex items-center justify-center shrink-0">
                     <img src=${thumbnail}
-                        alt=${title} class="max-h-full max-w-full object-contain">
+                        alt=${title} 9full max-w-full object-contain">
                 </div>
                 <div class="min-w-0 flex-1">
                     <a href="product-details.html?id=${id}"
