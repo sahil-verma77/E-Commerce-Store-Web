@@ -1,8 +1,8 @@
-# 🛍️ E-Commerce Store
+# 🛍️ Mini E-Commerce Store
 
 A responsive e-commerce website built with **HTML, Tailwind CSS, custom CSS, and JavaScript**. The project provides an interactive shopping experience where users can browse products, search for items, view product details, and manage their cart and wishlist.
 
-🔗 **Live Demo:** [E-Commerce Store](https://sahil-verma77.github.io/E-Commerce-Store-Web/)
+🔗 **Live Demo:** [E-Commerce Store](https://sahil-verma77.github.io/Mini-E-Commerce-Store/)
 
 ## ✨ Features
 
@@ -28,7 +28,7 @@ A responsive e-commerce website built with **HTML, Tailwind CSS, custom CSS, and
 ## 📂 Project Structure
 
 ```text
-E-Commerce-Store-Web/
+Mini-E-Commerce-Store/
 │
 ├── index.html
 ├── product-details.html
@@ -59,13 +59,13 @@ Follow these steps to run the project locally.
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/sahil-verma77/E-Commerce-Store-Web.git
+git clone https://github.com/sahil-verma77/Mini-E-Commerce-Store.git
 ```
 
 **2. Navigate to the project directory**
 
 ```bash
-cd E-Commerce-Store-Web
+cd Mini-E-Commerce-Store
 ```
 
 **3. Run the project**
@@ -96,8 +96,8 @@ Potential improvements for future development include:
 
 ## 🌐 Links
 
-* **Live Website:** [Visit E-Commerce Store](https://sahil-verma77.github.io/E-Commerce-Store-Web/)
-* **GitHub Repository:** [View Source Code](https://github.com/sahil-verma77/E-Commerce-Store-Web)
+* **Live Website:** [Visit E-Commerce Store](https://sahil-verma77.github.io/Mini-E-Commerce-Store/)
+* **GitHub Repository:** [View Source Code](https://github.com/sahil-verma77/Mini-E-Commerce-Store)
 
 ## 👨‍💻 Author
 
@@ -107,4 +107,4 @@ GitHub: [@sahil-verma77](https://github.com/sahil-verma77)
 
 ---
 
-*Built as a web development project to practise frontend development and JavaScript.*
+*Built as a web development project to practice frontend development and JavaScript.*
